@@ -24,6 +24,9 @@ The PDB file describes the mapped CG protein structure from the aa_ref.pdb. Each
 ### cg-nocharge.psf
 The PSF structure is the protein structure file for the CG model, containing all atom-specific information and bonds/angles/dihedrals.
 
+### PIML_model.py
+Contains the physics-informed machine learning layers/model script.
+
 ### nn.par
 CHARMM forcefield parameter file contains all of the learned force-field parameters from the PIML methods that are needed to evaluate forces and energies.
 
