@@ -1,5 +1,7 @@
 # PIML
-## Coarse-grained modeling of the SARS-CoV-2 spike glycoprotein by physics-informed machine learning
+## Coarse-Grained Modeling of the SARS-CoV-2 Spike Glycoprotein by Physics-Informed Machine Learning
+Liang, D., Zhang, Z., Rafailovich, M., Simon, M., Deng, Y., & Zhang, P. (2023). Coarse-Grained Modeling of the SARS-CoV-2 Spike Glycoprotein by Physics-Informed Machine Learning. Computation, 11(2), 24.
+
 
 
 ### aa_ref.pdb:
